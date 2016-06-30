@@ -1,1 +1,5 @@
-Freddo e secco ma una bella zona per una vacanza
+http://explore.rero.ch/primo_library/libweb/action/dlSearch.do?
+institution=RERO_FR&vid=FR_V1
+&search_scope=default_scope
+&query=facet_library,exact,RERO_RERO010010051_LIB
+&query=lsr33,contains,"CDU (086.73)"
